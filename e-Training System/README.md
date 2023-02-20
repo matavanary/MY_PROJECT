@@ -1,5 +1,4 @@
 # e-Training System ระบบฝึกอบรม
-**SQL-Server**
 
 **สิทธิ์ผู้ใช้งาน**  
   1. ผู้ดูแลระบบ  
@@ -29,6 +28,11 @@
     * จัดการเมนู  
     * และทุกเมนูที่อยู่ในสิทธิ์อื่น ๆ  
 
+**อื่น ๆ**
+  1. PHP Language
+  1. Javascript Language
+  1. CSS Language
+  2. Database: MS SQL Server  
 
 **SCREEN**
 
