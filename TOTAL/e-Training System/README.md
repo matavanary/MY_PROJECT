@@ -36,14 +36,14 @@
 
 **SCREEN**
 
-![1](https://github.com/ENOMBAN/MY_PROJECT/blob/main/e-Training%20System/image/1.jpg)
-![2](https://github.com/ENOMBAN/MY_PROJECT/blob/main/e-Training%20System/image/2.jpg)
-![3](https://github.com/ENOMBAN/MY_PROJECT/blob/main/e-Training%20System/image/3.jpg)
-![4](https://github.com/ENOMBAN/MY_PROJECT/blob/main/e-Training%20System/image/4.jpg)
-![5](https://github.com/ENOMBAN/MY_PROJECT/blob/main/e-Training%20System/image/5.jpg)
-![6](https://github.com/ENOMBAN/MY_PROJECT/blob/main/e-Training%20System/image/6.jpg)
-![7](https://github.com/ENOMBAN/MY_PROJECT/blob/main/e-Training%20System/image/7.jpg)
-![8](https://github.com/ENOMBAN/MY_PROJECT/blob/main/e-Training%20System/image/8.jpg)
-![9](https://github.com/ENOMBAN/MY_PROJECT/blob/main/e-Training%20System/image/9.jpg)
-![10](https://github.com/ENOMBAN/MY_PROJECT/blob/main/e-Training%20System/image/10.jpg)
+![1](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/e-Training%20System/image/1.jpg)
+![2](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/e-Training%20System/image/2.jpg)
+![3](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/e-Training%20System/image/3.jpg)
+![4](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/e-Training%20System/image/4.jpg)
+![5](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/e-Training%20System/image/5.jpg)
+![6](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/e-Training%20System/image/6.jpg)
+![7](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/e-Training%20System/image/7.jpg)
+![8](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/e-Training%20System/image/8.jpg)
+![9](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/e-Training%20System/image/9.jpg)
+![10](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/e-Training%20System/image/10.jpg)
 
