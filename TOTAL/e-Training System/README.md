@@ -34,7 +34,7 @@
   1. CSS Language
   2. Database: MS SQL Server  
 
-**SCREEN**
+**รูปภาพตัวอย่าง**
 
 ![1](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/e-Training%20System/image/1.jpg)
 ![2](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/e-Training%20System/image/2.jpg)
