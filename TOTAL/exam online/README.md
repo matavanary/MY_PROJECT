@@ -29,6 +29,12 @@
   5. Database: MySQLi
   6. Tool: VS Code, Xampp
 
+**ราคา**
+  ค่าตัว 4,000 บาทถ้วน
+  
+**สิ่งที่จะได้รับ**
+  ชุด Source Code ระบบ
+
 **รูปภาพตัวอย่าง**
 
 ![1](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/exam%20online/image/100.png)
