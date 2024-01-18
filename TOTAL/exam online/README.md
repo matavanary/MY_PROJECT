@@ -1,4 +1,4 @@
-# exam online ระบบข้อสอบออนไลน์
+# Exam Online ระบบข้อสอบออนไลน์
 
 **สิทธิ์ผู้ใช้งาน**  
 
@@ -22,18 +22,13 @@
     * ตรวจสอบประวัติการทำแบบทดสอบ
 
 **อื่น ๆ**
-  1. PHP Language
-  2. Javascript Language
-  3. Jquery Language
-  4. CSS Language
-  5. Database: MySQLi
-  6. Tool: VS Code, Xampp
-
-**ราคา**
-  ค่าตัว 4,000 บาทถ้วน
-  
-**สิ่งที่จะได้รับ**
-  ชุด Source Code ระบบ
+  1. Javascript Language
+  2. HTML Language
+  3. CSS Language
+  4. PHP Language
+  5. Jquery Language
+  6. Database: MySQLi
+  7. Tool: VS Code, Xampp
 
 **รูปภาพตัวอย่าง**
 
