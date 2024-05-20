@@ -5,3 +5,5 @@
 2. [E-Training System ระบบฝึกอบรม](https://github.com/ENOMBAN/MY_PROJECT/tree/main/TOTAL/e-Training%20System)
 
 3. [Exam Online ระบบข้อสอบออนไลน์](https://github.com/ENOMBAN/MY_PROJECT/tree/main/TOTAL/exam%20online)
+
+4. [IRKS ระบบโครงการบ้านจัดสรรไอยรา](https://github.com/ENOMBAN/MY_PROJECT/tree/main/TOTAL/IRKS)
