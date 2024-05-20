@@ -46,5 +46,3 @@
 ![23](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/IRKS/image/23.png)
 ![24](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/IRKS/image/24.png)
 ![25](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/IRKS/image/25.png)
-![26](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/IRKS/image/26.png)
-
