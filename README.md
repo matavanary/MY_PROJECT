@@ -11,3 +11,5 @@
 5. [CNACCOUNT ระบบแจ้งเตือนผ่านไลน์ของสำนักงานบัญชี](https://github.com/ENOMBAN/MY_PROJECT/tree/main/TOTAL/CNACCOUNT)
 
 6. [MakeMoney ระบบบันทึกเงินเข้า - ออกบัญชี](https://github.com/ENOMBAN/MY_PROJECT/tree/main/TOTAL/MakeMoney)
+
+7. [AMULET ระบบสถาบันรับรองพระเครื่องเมืองชลฯ](https://github.com/ENOMBAN/MY_PROJECT/tree/main/TOTAL/AMULET)
