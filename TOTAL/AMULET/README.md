@@ -27,6 +27,4 @@
 ![6](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/AMULET/image/6.png)
 ![7](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/AMULET/image/7.png)
 ![8](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/AMULET/image/8.png)
-![9](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/AMULET/image/9.png)
-![10](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/AMULET/image/10.png)
 
