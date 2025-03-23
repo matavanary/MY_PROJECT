@@ -40,7 +40,7 @@
 ![7](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/exam%20online/image/7.png)
 ![8](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/exam%20online/image/8.png)
 ![9](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/exam%20online/image/9.png) -->
-![10](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/exam%20online/image/10.png)
+<!-- ![10](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/exam%20online/image/10.png) -->
 <!-- ![11](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/exam%20online/image/11.png) -->
 ![12](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/exam%20online/image/12.png)
 ![13](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/exam%20online/image/13.png)
