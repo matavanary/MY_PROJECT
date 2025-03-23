@@ -39,17 +39,17 @@
 
 **รูปภาพตัวอย่าง**
 
-![1](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/EMS/image/1.png)
-![2](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/EMS/image/2.png)
-![3](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/EMS/image/3.png)
+<!-- ![1](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/EMS/image/1.png) -->
+<!-- ![2](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/EMS/image/2.png) -->
+<!-- ![3](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/EMS/image/3.png) -->
 ![4](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/EMS/image/4.png)
 ![5](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/EMS/image/5.png)
 ![6](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/EMS/image/6.png)
 ![7](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/EMS/image/7.png)
-![8](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/EMS/image/8.png)
-![9](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/EMS/image/9.png)
-![10](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/EMS/image/10.png)
-![11](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/EMS/image/11.png)
+<!-- ![8](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/EMS/image/8.png) -->
+<!-- ![9](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/EMS/image/9.png) -->
+<!-- ![10](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/EMS/image/10.png) -->
+<!-- ![11](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/EMS/image/11.png) -->
 ![12](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/EMS/image/12.png)
 ![13](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/EMS/image/13.png)
 ![14](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/EMS/image/14.png)
