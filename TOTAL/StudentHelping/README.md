@@ -42,21 +42,21 @@
 **รูปภาพตัวอย่าง**
 
 ![1](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/StudentHelping/image/1.png)
-![2](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/StudentHelping/image/2.png)
-![3](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/StudentHelping/image/3.png)
+<!-- ![2](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/StudentHelping/image/2.png) -->
+<!-- ![3](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/StudentHelping/image/3.png) -->
 ![4](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/StudentHelping/image/4.png)
 ![5](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/StudentHelping/image/5.png)
-![6](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/StudentHelping/image/6.png)
+<!-- ![6](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/StudentHelping/image/6.png) -->
 ![7](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/StudentHelping/image/7.png)
 ![8](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/StudentHelping/image/8.png)
 ![9](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/StudentHelping/image/9.png)
 ![10](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/StudentHelping/image/10.png)
-![11](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/StudentHelping/image/11.png)
+<!-- ![11](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/StudentHelping/image/11.png) -->
 ![12](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/StudentHelping/image/12.png)
-![13](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/StudentHelping/image/13.png)
-![14](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/StudentHelping/image/14.png)
-![15](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/StudentHelping/image/15.png)
-![16](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/StudentHelping/image/16.png)
+<!-- ![13](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/StudentHelping/image/13.png) -->
+<!-- ![14](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/StudentHelping/image/14.png) -->
+<!-- ![15](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/StudentHelping/image/15.png) -->
+<!-- ![16](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/StudentHelping/image/16.png) -->
 ![17](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/StudentHelping/image/17.png)
 ![18](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/StudentHelping/image/18.png)
 ![19](https://github.com/ENOMBAN/MY_PROJECT/blob/main/TOTAL/StudentHelping/image/19.png)
